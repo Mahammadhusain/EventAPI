@@ -112,7 +112,7 @@ The server will be accessible at `http://127.0.0.1:8000/`.
 You can test all endpoints using the provided Postman collection.
 
 ### Here are some points you might consider including:
-1. **Early Access**
+1. **Early Access for subscribed user (Subscription model)**
    - 3-day early access to ticket purchases
    - Priority queue for high-demand events
 
